@@ -1434,13 +1434,6 @@
     "spotify_link": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j",
     "preview_url": "https://p.scdn.co/mp3-preview/be360a507094a10639c1da4d1e8da31514d744dc"
   },
-  "3JiCL5TUrmeC9MQJ9PBpdS": {
-    "song_name": "האשה שאיתי",
-    "artist": "David Broza",
-    "year": 1983,
-    "spotify_link": "https://open.spotify.com/track/3JiCL5TUrmeC9MQJ9PBpdS",
-    "preview_url": "https://p.scdn.co/mp3-preview/5d754c878c9e90ac275b4da617f0330ee40cf1f7"
-  },
   "5RgFlk1fcClZd0Y4SGYhqH": {
     "song_name": "She's Always a Woman",
     "artist": "Billy Joel",
@@ -1896,25 +1889,151 @@
     "spotify_link": "https://open.spotify.com/track/7kcyCnpHm1BZGB9Wc7MCZH",
     "preview_url": "https://p.scdn.co/mp3-preview/632037798d8c706947c37b51757671d363ceb7c7"
   },
-  "4lzOb7A0xfdcYtV7YVr4Aa": {
-    "song_name": "Found a Way",
-    "artist": "Drake Bell",
-    "year": 2005,
-    "spotify_link": "https://open.spotify.com/track/4lzOb7A0xfdcYtV7YVr4Aa",
-    "preview_url": "https://p.scdn.co/mp3-preview/ac43e905d9df3690e5d86f0fa82ef2418567de58"
-  },
-  "4yKZACkuudvfd600H2dQie": {
-    "song_name": "Get Down On It - Single Version",
-    "artist": "Kool & The Gang",
-    "year": 1999,
-    "spotify_link": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie",
-    "preview_url": "https://p.scdn.co/mp3-preview/50894be98f38c84d6241f8641ed990ed23a0bab9"
-  },
   "6gQUbFwwdYXlKdmqRoWKJe": {
     "song_name": "Dude (Looks Like A Lady)",
     "artist": "Aerosmith",
     "year": 1987,
     "spotify_link": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe",
     "preview_url": "https://p.scdn.co/mp3-preview/7057ad9c5de1d636a154ed03e8d4b840e9bafc56"
+  },
+  "2fhfoZqqTJ8jo4HvWseNfM": {
+    "song_name": "I Will Buy You A New Life",
+    "artist": "Everclear",
+    "year": 1997,
+    "spotify_link": "https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM",
+    "preview_url": "https://p.scdn.co/mp3-preview/2bdce8e87065116060ff5503fa97e0da98bc1993"
+  },
+  "54jvLVojOWiQRubRfKmZ2k": {
+    "song_name": ".intoodeep.",
+    "artist": "Dead Poet Society",
+    "year": 2021,
+    "spotify_link": "https://open.spotify.com/track/54jvLVojOWiQRubRfKmZ2k",
+    "preview_url": "https://p.scdn.co/mp3-preview/c1f4882488724413b9a50abbb74995a0aa0270b5"
+  },
+  "0P7DoyGrr4Wp9w5TotEtUC": {
+    "song_name": "The Weight",
+    "artist": "The Band",
+    "year": 1968,
+    "spotify_link": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC",
+    "preview_url": "https://p.scdn.co/mp3-preview/6080cc872d9a51c72705530a985d2ce9394c390d"
+  },
+  "01UYpHuzHi4eB9PAbDoPY2": {
+    "song_name": "Summer Breeze",
+    "artist": "Seals and Crofts",
+    "year": 1977,
+    "spotify_link": "https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2",
+    "preview_url": "https://p.scdn.co/mp3-preview/75ca7e25927398abe0404f8a7dfdc2e8d58c8d3f"
+  },
+  "1wrhhPzd2ncJPNgUcGgBGg": {
+    "song_name": "Machinehead",
+    "artist": "Bush",
+    "year": 1994,
+    "spotify_link": "https://open.spotify.com/track/1wrhhPzd2ncJPNgUcGgBGg",
+    "preview_url": "https://p.scdn.co/mp3-preview/5beb434cbe64bfb7c4b295368412dfd1d1b7a860"
+  },
+  "2TE86N4uh16q4dzgd0HDps": {
+    "song_name": "Persian",
+    "artist": "Father Of Peace",
+    "year": 2026,
+    "spotify_link": "https://open.spotify.com/track/2TE86N4uh16q4dzgd0HDps",
+    "preview_url": "https://p.scdn.co/mp3-preview/345a2d1afd18f98bb3ef5a836053e580f922886c"
+  },
+  "2aC8wwfrM0YeTAzzk8hxqC": {
+    "song_name": "Disco 2000",
+    "artist": "Pulp",
+    "year": 1995,
+    "spotify_link": "https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC",
+    "preview_url": "https://p.scdn.co/mp3-preview/65e00dfb1cec3e42f02f605297b6f4b9956e2b17"
+  },
+  "2a0WwSvmFdXPTdDMilPA1y": {
+    "song_name": "Song To Sing When I'm Lonely",
+    "artist": "John Frusciante",
+    "year": 2004,
+    "spotify_link": "https://open.spotify.com/track/2a0WwSvmFdXPTdDMilPA1y",
+    "preview_url": "https://p.scdn.co/mp3-preview/21f399da7eae873d25457eb7ab51cca377265496"
+  },
+  "3ow0TQVttXQF8rLckmXgRx": {
+    "song_name": "Cherub Rock",
+    "artist": "The Smashing Pumpkins",
+    "year": 1993,
+    "spotify_link": "https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx",
+    "preview_url": "https://p.scdn.co/mp3-preview/c46e7568f2a1bdb9a6cd3c04725d011972c5ad27"
+  },
+  "1jMaB19DiVR8OihLSuYFOt": {
+    "song_name": "Spoonman",
+    "artist": "Soundgarden",
+    "year": 1994,
+    "spotify_link": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt",
+    "preview_url": "https://p.scdn.co/mp3-preview/d037b74dec634ce982dc9020925c44180102a067"
+  },
+  "1QFh8OH1e78dGd3VyJZCAC": {
+    "song_name": "Boys Don't Cry",
+    "artist": "The Cure",
+    "year": 1979,
+    "spotify_link": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC",
+    "preview_url": "https://p.scdn.co/mp3-preview/b028a7c3da10ef27d733cfbb4a279ddc65adfd21"
+  },
+  "5mkGfmJGFZpwK9nA5amOhv": {
+    "song_name": "Sex & Candy",
+    "artist": "Marcy Playground",
+    "year": 1997,
+    "spotify_link": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv",
+    "preview_url": "https://p.scdn.co/mp3-preview/86d9c0d94b7aaa5710bc4d05f3d5b21e30dae50c"
+  },
+  "3jJZVeExYzVYiV6Y9Fl3DX": {
+    "song_name": "Plush",
+    "artist": "Stone Temple Pilots",
+    "year": 1992,
+    "spotify_link": "https://open.spotify.com/track/3jJZVeExYzVYiV6Y9Fl3DX",
+    "preview_url": "https://p.scdn.co/mp3-preview/34fc34262498af6b4d598e0cb5439ce952f08770"
+  },
+  "6GsP3uMCd0Dn5T37C93waZ": {
+    "song_name": "Sick Love",
+    "artist": "Red Hot Chili Peppers",
+    "year": 2016,
+    "spotify_link": "https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ",
+    "preview_url": "https://p.scdn.co/mp3-preview/6bcf3043950d6f8028f42952bf7e9be0e1fd6465"
+  },
+  "3PKrVeWNVDUTjOx344XBVv": {
+    "song_name": "Henrietta",
+    "artist": "The Fratellis",
+    "year": 2006,
+    "spotify_link": "https://open.spotify.com/track/3PKrVeWNVDUTjOx344XBVv",
+    "preview_url": "https://p.scdn.co/mp3-preview/269bab31b8141e42713ccb8abdcc21a8c881ff6d"
+  },
+  "2xt2piJx6jlFkjS77YiqpL": {
+    "song_name": "Like a Stone",
+    "artist": "Audioslave",
+    "year": 2002,
+    "spotify_link": "https://open.spotify.com/track/2xt2piJx6jlFkjS77YiqpL",
+    "preview_url": "https://p.scdn.co/mp3-preview/46d898c23fb28b9f52abf78b794aa500988d2132"
+  },
+  "1KgfeuVn5OlsBEtoEmBa1t": {
+    "song_name": "Live Forever",
+    "artist": "Oasis",
+    "year": 1994,
+    "spotify_link": "https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t",
+    "preview_url": "https://p.scdn.co/mp3-preview/1091d15ea21b26a88a276fc0e0c0a33c50cf7eea"
+  },
+  "0kHwTHf8ye0mSd66pwcrEN": {
+    "song_name": "How You Like Me Now",
+    "artist": "The Heavy",
+    "year": 2009,
+    "spotify_link": "https://open.spotify.com/track/0kHwTHf8ye0mSd66pwcrEN",
+    "preview_url": "https://p.scdn.co/mp3-preview/b637bb37c3f5e0c9fe43ae8162f7440eca694099"
+  },
+  "1FkoVC85Ds3mFoK0fVqEqP": {
+    "song_name": "Self Esteem",
+    "artist": "The Offspring",
+    "year": 1994,
+    "spotify_link": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP",
+    "preview_url": "https://p.scdn.co/mp3-preview/29a0dd6febfac9310051074de46eefbb7a6f5cbd"
+  },
+  "2m1hi0nfMR9vdGC8UcrnwU": {
+    "song_name": "All The Small Things",
+    "artist": "blink-182",
+    "year": 1999,
+    "spotify_link": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU",
+    "preview_url": "https://p.scdn.co/mp3-preview/b1447b8d76183737ea2ebd10f70da6292904f833"
   }
 }
