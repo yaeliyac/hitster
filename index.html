@@ -4,7 +4,9 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 <meta name="robots" content="noindex" />
-<title>Hitster</title>
+<title>Amitster</title>
+<link rel="icon" type="image/jpeg" href="logo.jpeg" />
+<link rel="apple-touch-icon" href="logo.jpeg" />
 <style>
   :root {
     --bg: #0e1117; --card: #161b22; --accent: #1db954; --text: #e6edf3; --muted: #8b949e;
@@ -22,7 +24,7 @@
     padding: 28px 24px; width: 100%; max-width: 400px; text-align: center;
     box-shadow: 0 20px 60px rgba(0,0,0,0.45);
   }
-  .logo { font-size: 13px; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 22px; }
+  .logo { width: 150px; height: 150px; border-radius: 50%; display: block; margin: 0 auto 22px; }
   .btn {
     border: none; cursor: pointer; border-radius: 12px; padding: 15px 20px;
     font-size: 16px; font-weight: 600; width: 100%; background: var(--accent); color: #fff;
@@ -57,7 +59,7 @@
 </head>
 <body>
   <div class="card">
-    <div class="logo">Hitster</div>
+    <img class="logo" src="logo.jpeg" alt="Amitster" />
 
     <div id="login" class="hidden">
       <p class="hint">Connect your Spotify Premium account to control playback.</p>
